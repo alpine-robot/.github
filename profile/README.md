@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
-The ALPINE robot is supporte by the project "ALPINE: Robot intelligente e autonomo per operazioni in ambienti montani" funded by the VRT foundation.
+The ALPINE robot is supported by the project "ALPINE: Robot intelligente e autonomo per operazioni in ambienti montani" funded by the VRT foundation.
 
 ---
 ### 🧗‍♂️ Project ALPINE
