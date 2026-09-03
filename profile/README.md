@@ -19,6 +19,8 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 🔗 [Research paper on ALPINE](https://www.sciencedirect.com/science/article/pii/S0921889025000855)  
 🔗 [Repository: code to optimize jump trajectories](https://github.com/mfocchi/climbing_robots2)
 🔗 [Thesis: Mechatronic Design of the ALPINE robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/Luca_Hardonk_thesis.pdf)
+🔗 [Thesis: Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
+
 ---
 
 ### 📁 Our Repositories
