@@ -7,7 +7,7 @@ The ALPINE robot is supported by the project "ALPINE: A climbing robot for opera
 ---
 ### 🧗‍♂️ Project ALPINE
 
-<img width="260" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
+<img align="right" width="260" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
 
 
 **ALPINE** is a climbing robot designed for operations in mountain environments.  
