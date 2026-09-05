@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<img align="left" width="160" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
+<img align="left" width="200" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
 
 Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
 The ALPINE robot is supported by the project "ALPINE: A climbing robot for operations in mountain environments" funded by the VRT foundation.
@@ -39,11 +39,11 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
 ---
-###  Design
+### ✍️ Design
 
 <p align="center">
-<img width="450"  alt="immagine" src="https://github.com/user-attachments/assets/27c4f510-e763-4caf-9bbf-84932cd6b805" />
-<img width="450"  alt="immagine" src="https://github.com/user-attachments/assets/152977c9-6f12-4065-a5ad-6e98823b34e1" />
+<img width="500"  alt="immagine" src="https://github.com/user-attachments/assets/27c4f510-e763-4caf-9bbf-84932cd6b805" />
+<img width="500"  alt="immagine" src="https://github.com/user-attachments/assets/152977c9-6f12-4065-a5ad-6e98823b34e1" />
 </p>
 
 
