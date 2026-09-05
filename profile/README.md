@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<img align="right" width="160" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
+<img align="right" width="150" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
 
 Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
 The ALPINE robot is supported by the project "ALPINE: A climbing robot for operations in mountain environments" funded by the VRT foundation.
@@ -9,7 +9,7 @@ The ALPINE robot is supported by the project "ALPINE: A climbing robot for opera
 ---
 ### 🧗‍♂️ Project ALPINE
 
-<img align="right" width="320" alt="alpine_robot_showcase_extra_slow_v3" src="https://github.com/user-attachments/assets/f2983b14-44d5-445d-9c10-48a5bf1f92e9" />
+<img align="right" width="340" alt="alpine_robot_showcase_extra_slow_v3" src="https://github.com/user-attachments/assets/f2983b14-44d5-445d-9c10-48a5bf1f92e9" />
 
 
 **ALPINE** is a climbing robot designed for operations in mountain environments.  
@@ -24,8 +24,9 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 ### 💡 Researches and Divulgation
 
-- 📝 [Research paper on ALPINE](https://www.sciencedirect.com/science/article/pii/S0921889025000855)  
+- 📝 [Research paper on ALPINE](https://www.sciencedirect.com/science/article/pii/S0921889025000855)
 - 🎓 [Mechatronic Design of the ALPINE robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/Luca_Hardonk_thesis.pdf)
+- 🎓 [ Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://github.com/mfocchi/mfocchi.github.io/blob/master/_data/thesis/thesisMalacarne26.pdf)
 - 🎓 [Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
 
 ---
@@ -53,7 +54,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 - 🎬 [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
 - 🎬 [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
-- 🎬 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robot](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
+- 🎬 [Jump Optimization](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
 - 🎬 [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
 
 ---
