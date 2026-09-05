@@ -15,18 +15,22 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - Navigating steep and irregular terrain  
 - Carrying heavy payloads  
 - Performing complex tasks  
-- Overcoming natural barriers by jumping using a retractable leg while suspended on ropes  
-🔗 [Research paper on ALPINE](https://www.sciencedirect.com/science/article/pii/S0921889025000855)  
-🔗 [Repository: code to optimize jump trajectories](https://github.com/mfocchi/climbing_robots2)
-🔗 [Thesis: Mechatronic Design of the ALPINE robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/Luca_Hardonk_thesis.pdf)
-🔗 [Thesis: Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
-
+- Overcoming natural barriers by jumping using a retractable leg while suspended on ropes
+    
 ---
 
+### 💡 Researches and Divulgation
+
+- 📝 [Research paper on ALPINE](https://www.sciencedirect.com/science/article/pii/S0921889025000855)  
+- 🎓 [Mechatronic Design of the ALPINE robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/Luca_Hardonk_thesis.pdf)
+- 🎓 [Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
+
+---
 ### 📁 Our Repositories
 
 - 🔧 [Documentation_Climb](https://github.com/MalaHard-RoboTech/Documentation_Climb) — Docs, designs, and references  
-- 🧠 [Climb_ros2_ws](https://github.com/MalaHard-RoboTech/Climb_ros2) — ROS 2 workspace for simulation and control  
+- 🧠 [Climb_ros2_ws](https://github.com/MalaHard-RoboTech/Climb_ros2) — ROS 2 workspace for simulation and control
+- 🔗 [multi-jump](https://github.com/mfocchi/climbing_robots2) — Code to optimize jump trajectories
 - 🔌 [Climb_arduino](https://github.com/MalaHard-RoboTech/Climb_arduino) — Microcontroller-level code
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
@@ -53,6 +57,8 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 ## Follow us:
 - 🌐 [Website IDRA LAB](https://idra-lab.github.io/research/field/)
+- 🌐 [UniTrentoMag: "Robot spiderman ad alta quota"](https://mag.unitn.it/innovazione/121728/robot-spiderman-ad-alta-quota)
+- 🌐 [L'AltraMontagna / il Dolomiti: "Un ragno-robot che si muove sulle pareti di roccia"](https://www.ildolomiti.it/altra-montagna/attualita/2026/un-ragno-robot-che-si-muove-sulle-pareti-di-roccia-video-saltera-nellanfratto-irraggiungibile-dove-si-trova-il-ferito-il-nuovo-strumento-che-potrebbe-rivoluzionare-i-soccorsi-in-montagna)
 - 🌐 [Maker fair Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome/)
 - 🌐 [IROS 2026 Pittsburgh](https://2026.ieee-iros.org/) 
 - 🌐 [Packing My Bags (and My Curiosity) for Maker Faire Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome)
