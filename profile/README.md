@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<img align="left" width="170" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
+<img align="left" width="160" alt="immagine" src="https://github.com/user-attachments/assets/fc4c8b82-c926-40d9-a372-9864f7434606" />
 
 Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
 The ALPINE robot is supported by the project "ALPINE: A climbing robot for operations in mountain environments" funded by the VRT foundation.
@@ -32,24 +32,14 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 ---
 ### 📁 Our Repositories
 
-- 🔧 [Documentation_Climb](https://github.com/MalaHard-RoboTech/Documentation_Climb) — Docs, designs, and references  
+- 🔧 [Documentation_Climb](https://github.com/MalaHard-RoboTech/Documentation_Climb) — Docs, designs, and references
+- ✏️ [Alpine Design](https://github.com/alpine-robot/design) — Blue Prints
 - 🧠 [Climb_ros2_ws](https://github.com/MalaHard-RoboTech/Climb_ros2) — ROS 2 workspace for simulation and control
 - 🔗 [multi-jump](https://github.com/mfocchi/climbing_robots2) — Code to optimize jump trajectories
 - 🔌 [Climb_arduino](https://github.com/MalaHard-RoboTech/Climb_arduino) — Microcontroller-level code
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
 ---
-### ✍️ Design
-
-<p align="center">
-<img width="500"  alt="immagine" src="https://github.com/user-attachments/assets/27c4f510-e763-4caf-9bbf-84932cd6b805" />
-<img width="500"  alt="immagine" src="https://github.com/user-attachments/assets/152977c9-6f12-4065-a5ad-6e98823b34e1" />
-</p>
-
-
----
-
-
 
 ### 💪 Our Team
 
