@@ -31,9 +31,24 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
 ---
+
+### Our Team
+
+---
+
+### 🎬 Demo Videos
+
+- ▶️ [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
+- ▶️ [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
+- ▶️ [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robot](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
+- ▶️ [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
+
+---
+
 ## Follow us:
 - 🌐 [Website IDRA LAB](https://idra-lab.github.io/research/field/)
-- 🌐 [Maker fair Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome/) 
+- 🌐 [Maker fair Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome/)
+- 🌐 [IROS 2026 Pittsburgh](https://2026.ieee-iros.org/) 
 - 🌐 [Packing My Bags (and My Curiosity) for Maker Faire Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome)
 - 🌐 [Linkedin_1](https://www.linkedin.com/posts/unitrentodisi_makerfairerome-mfr2025-robotics-activity-7383878364362641408-Du_h/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)  |  [Linkedin_2](https://www.linkedin.com/posts/unitrentodisi_makerfaire-irim3d-idralabs-activity-7387471145169547264-_umN/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)  |  [Linkedin_3](https://www.linkedin.com/posts/michelefocchi_proud-to-have-presented-alpine-our-new-prototype-activity-7385670831810572288-Ywc2/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)
 
