@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
-The ALPINE robot is supported by the project "ALPINE: Robot intelligente e autonomo per operazioni in ambienti montani" funded by the VRT foundation.
+The ALPINE robot is supported by the project "ALPINE: A climbing robot for operations in mountain environments" funded by the VRT foundation.
 
 ---
 ### 🧗‍♂️ Project ALPINE
@@ -45,7 +45,8 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 <p align="center">
 	<img src="../image/logo_alpine.png" alt="Alpine Robot Logo" height="80" />
 	<img src="../image/logo_fiera_roma.png" alt="Maker Faire Rome" height="80" />
-	<img src="../image/UniTrento_logo_ITA_colore.jpg" alt="Università di Trento" height="80" />
+	<img width="768" height="499" alt="immagine" src="https://github.com/user-attachments/assets/e3fec97b-49c2-4a90-b377-870cda0f5192" />
+    <img src="../image/UniTrento_logo_ITA_colore.jpg" alt="Università di Trento" height="80" />
 	<img src="../image/idra_logo.png" alt="IDRA Lab" height="80" />
 </p>
 
