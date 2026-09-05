@@ -34,11 +34,11 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 ### 💪 Our Team
 
-<p align="center">
+<p align="left">
 	<img height="150" alt="immagine" src="https://github.com/user-attachments/assets/b42d5d1b-b6f1-4179-93ec-5ecee1c2d790" />
 </p>
 
-- 🤝 [ALPINE Family](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
+- 👤 [Members](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
 
 ---
 
