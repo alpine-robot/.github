@@ -32,25 +32,25 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
 ---
 
-### Our Team
+### 🤝 Our Team
 
-<p align="center">
+<p align="left">
 	<img height="110" alt="immagine" src="https://github.com/user-attachments/assets/e82771a1-6ab3-44c9-a6c9-69067148499e" />
 	<img height="110" alt="immagine" src="https://github.com/user-attachments/assets/a543b76a-bcf1-48d6-af5b-4f158ddae184" />
 	<img height="110" alt="immagine" src="https://github.com/user-attachments/assets/7d189780-19a4-4f00-a5b9-30aa07c1a01d" />
 	<img height="110" alt="immagine" src="https://github.com/user-attachments/assets/dffa25e7-215e-4e5f-bfb1-2d19e214a387" />
 </p>
 
-- [Team of the Climbing Robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
+- 🤝 [Team of the Climbing Robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
 
 ---
 
-### 🎬 Demo Videos
+### Demo Videos
 
-- ▶️ [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
-- ▶️ [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
-- ▶️ [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robot](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
-- ▶️ [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
+- 🎬 [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
+- 🎬 [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
+- 🎬 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robot](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
+- 🎬 [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
 
 ---
 
