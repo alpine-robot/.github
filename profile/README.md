@@ -30,6 +30,16 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🎓 [Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
 
 ---
+
+### Demo Videos
+
+- 🎬 [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
+- 🎬 [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
+- 🎬 [Jump Optimization](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
+- 🎬 [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
+
+---
+
 ### 📁 Our Repositories
 
 - 🔧 [Documentation_Climb](https://github.com/MalaHard-RoboTech/Documentation_Climb) — Docs, designs, and references
@@ -48,15 +58,6 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 </p>
 
 - 👤 [Contact us](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
-
----
-
-### Demo Videos
-
-- 🎬 [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
-- 🎬 [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
-- 🎬 [Jump Optimization](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
-- 🎬 [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
 
 ---
 
