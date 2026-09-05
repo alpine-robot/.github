@@ -32,7 +32,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
 ---
 
-### 🤝 Our Team
+### 💪 Our Team
 
 <p align="left">
 	<img height="110" alt="immagine" src="https://github.com/user-attachments/assets/e82771a1-6ab3-44c9-a6c9-69067148499e" />
@@ -41,7 +41,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 	<img height="110" alt="immagine" src="https://github.com/user-attachments/assets/dffa25e7-215e-4e5f-bfb1-2d19e214a387" />
 </p>
 
-- 🤝 [Team of the Climbing Robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
+- 🤝 [ALPINE Family](https://github.com/alpine-robot/Documentation_Climb/blob/main/%F0%9F%A4%9D%20Team%20of%20the%20Climbing%20Robot.md)
 
 ---
 
