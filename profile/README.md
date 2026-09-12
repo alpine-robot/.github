@@ -49,7 +49,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🔗 [multi-jump](https://github.com/mfocchi/climbing_robots2) — Code to optimize jump trajectories
 - 🔌 [Climb_arduino](https://github.com/MalaHard-RoboTech/Climb_arduino) — Microcontroller-level code
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
-- 🤖 [Climbingrobot_controller](https://github.com/idra-lab/robot_control/tree/master/base_controllers/climbingrobot_controller) — High level interface for the climbing robot
+- 🤖 [Climbingrobot_controller](https://github.com/idra-lab/robot_control/tree/climbing_robot/base_controllers/climbingrobot_controller) — High level interface for the climbing robot
 ---
 
 ### 💪 Our Team
