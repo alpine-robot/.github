@@ -45,10 +45,11 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🔧 [Documentation_Climb](https://github.com/MalaHard-RoboTech/Documentation_Climb) — Docs, designs, and references
 - ✏️ [Alpine Design](https://github.com/alpine-robot/design) — Blue Prints
 - 🧠 [Climb_ros2_ws](https://github.com/MalaHard-RoboTech/Climb_ros2) — ROS 2 workspace for simulation and control
+- ⚙️ [climbingrobot_hardware_interface](https://github.com/idra-lab/climbingrobot_hardware_interface) - ROS 1 workspace for low level interface
 - 🔗 [multi-jump](https://github.com/mfocchi/climbing_robots2) — Code to optimize jump trajectories
 - 🔌 [Climb_arduino](https://github.com/MalaHard-RoboTech/Climb_arduino) — Microcontroller-level code
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
-- 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot
+- 🤖 [Climbingrobot_controller](https://github.com/idra-lab/robot_control/tree/master/base_controllers/climbingrobot_controller) — High level for the climbing robot
 ---
 
 ### 💪 Our Team
