@@ -24,13 +24,21 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 ### 💡 Researches and Divulgation
 
-- 📝 [Research paper on ALPINE](https://www.sciencedirect.com/science/article/pii/S0921889025000855)
-- 🎓 [Mechatronic Design of the ALPINE robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/Luca_Hardonk_thesis.pdf)
-- 🎓 [ Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://github.com/mfocchi/mfocchi.github.io/blob/master/_data/thesis/thesisMalacarne26.pdf)
-- 🎓 [Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
+- 📝 [ALPINE: A climbing robot for operations in mountain environments](https://www.sciencedirect.com/science/article/pii/S0921889025000855)
+- 📝 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://hal.science/hal-05541276v1/file/iros26multi_jump%20%281%29.pdf)
+- [Robot spiderman ad alta quota](https://mag.unitn.it/innovazione/121728/robot-spiderman-ad-alta-quota)
+- [IDRA-LAB](https://idra.unitn.it/event/2025-10-18_irim/)
+- [Un ragno-robot che si muove sulle pareti di roccia](https://www.ildolomiti.it/altra-montagna/attualita/2026/un-ragno-robot-che-si-muove-sulle-pareti-di-roccia-video-saltera-nellanfratto-irraggiungibile-dove-si-trova-il-ferito-il-nuovo-strumento-che-potrebbe-rivoluzionare-i-soccorsi-in-montagna)
 
 ---
 
+### 💡 Thesis
+
+- 🎓 [Mechatronic Design of the ALPINE robot](https://github.com/mfocchi/mfocchi.github.io/blob/master/_data/thesis/Luca_Hardonk_thesis.pdf)
+- 🎓 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://github.com/mfocchi/mfocchi.github.io/blob/master/_data/thesis/thesisMalacarne26.pdf)
+- 🎓 [Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
+
+---
 ### Demo Videos
 
 - 🎬 [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
