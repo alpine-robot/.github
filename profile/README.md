@@ -26,10 +26,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 - 📝 [ALPINE: A climbing robot for operations in mountain environments](https://www.sciencedirect.com/science/article/pii/S0921889025000855)
 - 📝 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://hal.science/hal-05541276v1/file/iros26multi_jump%20%281%29.pdf)
-- [Robot spiderman ad alta quota](https://mag.unitn.it/innovazione/121728/robot-spiderman-ad-alta-quota)
-- [IDRA-LAB](https://idra.unitn.it/event/2025-10-18_irim/)
-- [Un ragno-robot che si muove sulle pareti di roccia](https://www.ildolomiti.it/altra-montagna/attualita/2026/un-ragno-robot-che-si-muove-sulle-pareti-di-roccia-video-saltera-nellanfratto-irraggiungibile-dove-si-trova-il-ferito-il-nuovo-strumento-che-potrebbe-rivoluzionare-i-soccorsi-in-montagna)
-
+  
 ---
 
 ### 💡 Thesis
@@ -52,7 +49,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 - 🔧 [Documentation_Climb](https://github.com/MalaHard-RoboTech/Documentation_Climb) — Docs, designs, and references
 - ✏️ [Alpine Design](https://github.com/alpine-robot/design) — Blue Prints
-- 🧠 [Climb_ros2_ws](https://github.com/MalaHard-RoboTech/Climb_ros2) — ROS 2 workspace for simulation and control
+- 🧠 [Bi-level optimization](https://github.com/idra-lab/robot_control/tree/master/base_controllers/climbingrobot_controller/climb_multiple_jumps) - Motion Planning for Alpine Robot
 - ⚙️ [climbingrobot_hardware_interface](https://github.com/idra-lab/climbingrobot_hardware_interface) - ROS 1 workspace for low level interface
 - 🔗 [multi-jump](https://github.com/mfocchi/climbing_robots2) — Code to optimize jump trajectories
 - 🔌 [Climb_arduino](https://github.com/MalaHard-RoboTech/Climb_arduino) — Microcontroller-level code
@@ -72,6 +69,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 ## Follow us:
 - 🌐 [Website IDRA LAB](https://idra-lab.github.io/research/field/)
+- 🌐 [Website IDRA LAB_2](https://idra.unitn.it/event/2025-10-18_irim/)
 - 🌐 [UniTrentoMag: "Robot spiderman ad alta quota"](https://mag.unitn.it/innovazione/121728/robot-spiderman-ad-alta-quota)
 - 🌐 [L'AltraMontagna / il Dolomiti: "Un ragno-robot che si muove sulle pareti di roccia"](https://www.ildolomiti.it/altra-montagna/attualita/2026/un-ragno-robot-che-si-muove-sulle-pareti-di-roccia-video-saltera-nellanfratto-irraggiungibile-dove-si-trova-il-ferito-il-nuovo-strumento-che-potrebbe-rivoluzionare-i-soccorsi-in-montagna)
 - 🌐 [Maker fair Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome/)
