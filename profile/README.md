@@ -22,6 +22,9 @@ Mountain slopes represent harsh terrains where humans are often required to perf
     
 ---
 
+### Patent
+- 📝 [Climbing Robot System](https://www.knowledge-share.eu/en/patents/climbing-robot-system)
+ 
 ### 💡 Researches and Divulgation
 
 - 📝 [ALPINE: A climbing robot for operations in mountain environments](https://www.sciencedirect.com/science/article/pii/S0921889025000855)
