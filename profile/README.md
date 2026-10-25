@@ -63,7 +63,12 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 ### 💪 Our Team
 
 <p align "left">
-	<img  height="150" alt="alpine_foto_lenta" src="https://github.com/user-attachments/assets/20ea75e9-c14f-4dd2-9948-e50d3f2e53fd" />
+	
+<img height="200" alt="alpine_foto_10MB" src="https://github.com/user-attachments/assets/73e5985b-7b9a-4a80-81ae-ca30e2e673cd" />
+
+
+
+
 
 </p>
 
