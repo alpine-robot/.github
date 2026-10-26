@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<img  height="150" alt="immagine" src="https://github.com/user-attachments/assets/02446c76-2cb9-4d81-b017-b16d69bf9750" />
+<img  width="150" alt="immagine" src="https://github.com/user-attachments/assets/02446c76-2cb9-4d81-b017-b16d69bf9750" />
 
 
 Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
