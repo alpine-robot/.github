@@ -88,7 +88,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 
 
 <p align="center">
-	<img src="../image/logo_alpine.png" alt="Alpine Robot Logo" height="80" />
+	<img src="../image/logo2.jpeg" alt="Alpine Robot Logo" height="80" />
 	<img src="../image/logo_fiera_roma.png" alt="Maker Faire Rome" height="80" />
 	<img height="80" alt="IROS-2026-logo-768x499-1" src="https://github.com/user-attachments/assets/1d32bee2-0673-4ace-90ad-9b44da97b05c" />
     <img src="../image/UniTrento_logo_ITA_colore.jpg" alt="Università di Trento" height="80" />
