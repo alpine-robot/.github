@@ -26,7 +26,16 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 ### Patent
 - 📝 [Climbing Robot System](https://www.knowledge-share.eu/en/patents/climbing-robot-system)
  
-### 💡 Researches and Divulgation
+---
+### Videos (newest first)
+
+- 🎬 [Latest Video on ALPINE](https://www.youtube.com/watch?v=ANr4rr6-7jc)
+- 🎬 [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
+- 🎬 [Jump Optimization](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
+- 🎬 [First ALPINE Project Video](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
+- 🎬 [Video of the paper on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
+
+### 💡 Research 
 
 - 📝 [ALPINE: A climbing robot for operations in mountain environments](https://www.sciencedirect.com/science/article/pii/S0921889025000855)
 - 📝 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://hal.science/hal-05541276v1/file/iros26multi_jump%20%281%29.pdf)
@@ -39,13 +48,6 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🎓 [Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots](https://github.com/mfocchi/mfocchi.github.io/blob/master/_data/thesis/thesisMalacarne26.pdf)
 - 🎓 [Orientation Control and Experimental Integration of the ALPINE Climbing Robot](https://github.com/AndreaDallaVilla/Bachelor-thesis/blob/main/Dalla_Villa_Andrea_Bachelor26-1.pdf)
 
----
-### Demo Videos
-
-- 🎬 [Research Video on ALPINE](https://youtu.be/FqsREaoe-28?si=7coN5n5xZMENaTeG)
-- 🎬 [ALPINE Project](https://youtu.be/dRgj9493DnM?si=L3Wys6Xz5ZXLv5jR)
-- 🎬 [Jump Optimization](https://youtu.be/yUsPvjpKSzw?si=iSXtrw84mv-VQT57)
-- 🎬 [Jump and Attitude Control](https://youtu.be/uGnkgwyiz4E?si=BP46XxBLvgzK4-ki)
 
 ---
 
